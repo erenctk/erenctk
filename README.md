@@ -1,4 +1,5 @@
-### 👋 Hi there, I'm Serhat Eren
+👋 Hi there, I'm Serhat Eren
+============================
 
 **I'm a computer programming student at Mersin University**
 
