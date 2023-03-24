@@ -1,8 +1,24 @@
-👋 Hi there! I'm Serhat Eren
-============================
+### 👋 Hi there, I'm Serhat Eren
 
-[![Linkedin Badge](https://img.shields.io/badge/-serhaterenc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/serhat-eren-catuk-9b278626b/)](https://www.linkedin.com/in/serhat-eren-catuk-9b278626b/) [![Instagram Badge](https://img.shields.io/badge/-serhaterenc-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/serhaterwn/)](https://www.instagram.com/serhaterwn/) [![Twitter Badge](https://img.shields.io/badge/-serhaterenc-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/serhaterenc)](https://twitter.com/serhaterenc)
+**I'm a computer programming student at Mersin University**
 
-✨ I'm a computer programming student at Mersin University - 🌱 I’m currently learning Javascript <br>
-🛠 Skills: ![HTML5](https://shields.io/badge/html5-black?logo=html5&style=for-the-badge%22) ![CSS3](https://shields.io/badge/css3-black?logo=css3&style=for-the-badge%22) ![Python](https://shields.io/badge/python-black?logo=python&style=for-the-badge%22) ![Selenium](https://shields.io/badge/selenium-black?logo=selenium&style=for-the-badge%22) ![Javascript](https://shields.io/badge/javascript-black?logo=javascript&style=for-the-badge%22) ![MySQL](https://shields.io/badge/mysql-black?logo=mysql&style=for-the-badge%22) <br>
-📫 How to reach me: [@serhaterwn](https://instagram.com/serhaterwn)
+- 🌱 I’m currently learning Javascript and C+
+- 📫 How to reach me: [seerhateren@gmail.com](mailto:seerhateren@gmail.com)
+
+**Communication**
+
+//
+
+**Languages**
+
+![Html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![Css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Tools:**
+
+![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![SublimeText](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
