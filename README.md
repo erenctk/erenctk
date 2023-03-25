@@ -1,4 +1,4 @@
-👋 Hi there, I'm Serhat Eren
+👋 Hi there, I'm Serhat Eren Catuk
 ============================
 
 **I'm a computer programming student at Mersin University**
