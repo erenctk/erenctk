@@ -3,7 +3,7 @@
 
 **I'm a computer programming student at Mersin University**
 
-- 🌱 I’m currently learning Javascript and C+
+- 🌱 I’m currently learning Javascript and C++
 - 📫 How to reach me: [seerhateren@gmail.com](mailto:seerhateren@gmail.com)
 
 **Communication**
