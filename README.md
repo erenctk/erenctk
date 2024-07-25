@@ -4,7 +4,7 @@
 **I'm a computer programming student at Mersin University**
 
 - 🌱 I’m currently learning Javascript and C++
-- 📫 How to reach me: [seerhateren@gmail.com](mailto:seerhateren@gmail.com)
+- 📫 How to reach me: [serencatuk@gmail.com](mailto:serencatuk@gmail.com)
 
 **Communication**
 
