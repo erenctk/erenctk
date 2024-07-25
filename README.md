@@ -1,7 +1,7 @@
 👋 Hi there, I'm Eren Catuk
 ============================
 
-**I'm a computer programming student at Mersin University**
+**I am a computer programmer 👋**
 
 - 🌱 I’m currently learning Javascript and C++
 - 📫 How to reach me: [serencatuk@gmail.com](mailto:serencatuk@gmail.com)
