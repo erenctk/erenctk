@@ -3,7 +3,7 @@
 
 **I am a computer programmer 👋**
 
-- 🌱 I’m currently learning Javascript and C++
+- 🌱 I dedicate myself to constantly learning something
 - 📫 How to reach me: [serencatuk@gmail.com](mailto:serencatuk@gmail.com)
 
 **Communication**
