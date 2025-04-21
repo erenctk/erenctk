@@ -1,25 +1,57 @@
-👋 Hi there, I'm Eren Catuk
-============================
+<div align="center">
+  
+# 👨‍💻 Eren Catuk
 
-**I am a computer programmer 👋**
+### Full Stack Developer & AI Enthusiast
 
-- 🌱 I dedicate myself to constantly learning something
-- 📫 How to reach me: [serencatuk@gmail.com](mailto:serencatuk@gmail.com)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/eren-catuk-51a24a284/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:serencatuk@gmail.com)
 
-**Communication**
+</div>
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eren-catuk-51a24a284/) <br>
-**Languages**
+## 🚀 About Me
 
-![Html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![Css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+I'm a passionate Full Stack Developer who loves to create innovative solutions. My journey in programming is driven by continuous learning and exploring new technologies, especially in AI development.
 
-**Tools:**
+## 💻 Tech Stack
 
-![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![SublimeText](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
+### Languages & Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php"/>
+</p>
+
+### Development Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode"/>
+  <img src="https://img.shields.io/badge/Cursor-00A0E4?style=for-the-badge&logo=cursor&logoColor=white" alt="cursor"/>
+  <img src="https://img.shields.io/badge/AI_Development-FF6B6B?style=for-the-badge&logo=artificial-intelligence&logoColor=white" alt="ai"/>
+</p>
+
+## 🌟 Expertise
+
+- 🎯 Full Stack Web Development
+- 🤖 AI Development & Integration
+- 💡 Problem Solving
+- 🔄 Continuous Learning
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=serencatuk&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
+
+## 🎯 Current Focus
+
+- Exploring advanced AI development techniques
+- Enhancing full-stack development skills
+- Contributing to open-source projects
+- Building innovative web solutions
+
+---
+
+<div align="center">
+  <i>Let's connect and create something amazing together!</i>
+</div>
