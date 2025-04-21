@@ -21,6 +21,8 @@ I'm a passionate Full Stack Developer who loves to create innovative solutions. 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/>
 </p>
 
 ### Development Tools
@@ -36,12 +38,6 @@ I'm a passionate Full Stack Developer who loves to create innovative solutions. 
 - 🤖 AI Development & Integration
 - 💡 Problem Solving
 - 🔄 Continuous Learning
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=serencatuk&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
 
 ## 🎯 Current Focus
 
