@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Eren%20Catuk&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast&descAlignY=51&descAlign=62)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Eren%20Catuk&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20AI%20Enthusiast&descAlignY=51&descAlign=62)
 
 </div>
 
@@ -48,8 +48,8 @@
 <div align="center">
   <p>
     Passionate about crafting digital experiences and solving complex problems through code. 
-    I specialize in full-stack development and AI integration, constantly pushing the boundaries 
-    of what's possible in web development.
+    I specialize in web development and AI integration, constantly pushing the boundaries 
+    of what's possible in software development.
   </p>
 </div>
 
